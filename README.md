@@ -25,7 +25,7 @@ Time spent: `5 hours`
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Week4_homework](https://github.com/nvisanji/Week-4-Homework/blob/master/week4_homework.gif?raw=true)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
